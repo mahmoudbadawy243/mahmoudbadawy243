@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/mahmoud-badawy-872732259" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Badawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/mahmoud-samy-badawy" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Badawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/mahmoud_badawy99" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Badawy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mahmoud.badawy.9081?mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Badawy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
